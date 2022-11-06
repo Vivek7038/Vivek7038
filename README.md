@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek Chavan
+               Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <h1>Vivek Chavan</h1>
 <h3 align="center">A passionate frontend developer from India.Currently in 3rd year of cs enginneering</h3>
 
 
