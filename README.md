@@ -8,6 +8,7 @@ Front End Developer
 * 🖥️  See my portfolio at [MyPortfolio](http://https://vivek-react-portfolio-site.vercel.app/)
 * ✉️  You can contact me at [vivek888chavan@gmail.com](mailto:vivek888chavan@gmail.com)
 * 🧠  I'm learning React.js
+* 🖥️  Solving DSA Questions (https://leetcode.com/vivek888chavan/)
 
 ### Skills
 
